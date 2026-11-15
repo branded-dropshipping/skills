@@ -1,0 +1,41 @@
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+.credentials/
+/.agents/
+/.claude/
+/.codex/
+
+# Private working material belongs outside this repository
+/private/
+/research/
+/evidence/
+/raw/
+/scratch/
+
+# Local maintenance and review material
+/AGENTS.md
+/shared/
+/tools/
+/requirements-dev.txt
+/.github/
+/examples/
+/skills/*/tests/
+/skills/*/scripts/
+/skills/*/assets/
+/skills.sh.json
+
+# Dependencies, caches and generated output
+node_modules/
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+/dist/
+/build/
+/coverage/
+/test-results/
+*.log
+.DS_Store
