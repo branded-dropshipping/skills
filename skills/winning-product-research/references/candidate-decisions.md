@@ -12,6 +12,8 @@ Then work out what has to be true for the offer to work: the buyer's situation a
 
 ## Compare opportunity costs, not unrelated scores
 
+Preserve the user's supplied cost basis. If they give a landed cost, identify what it includes before adding freight again; do not relabel it as product cost or a pre-shipping figure. Price minus stated landed cost is the remainder before unspecified costs, not established contribution or profit. Calculate that remainder when useful, name only the missing costs that matter to the decision, and rank the next investigation without inventing demand or sales.
+
 The real question is what this candidate costs you in money, filming time and attention that a better-evidenced one could have used. A product with plenty of content may need a filming skill you don't have. A less novel item with clear supply and a reachable use case may be the better next bet. You give up some novelty upside for an investigation you can actually run. Change the comparison when production access or supplier terms change.
 
 Look for **room for error**: early unit economics comfortable enough to survive the cost per order rising as spend grows. A product that only just breaks even at test scale can easily slip into a loss as spend rises, so plan for that rather than hope against it. Price the next learning step rather than persistence itself. Repeating the same configuration isn't learning; a retest needs a named hypothesis and a cost you can afford.

@@ -25,7 +25,7 @@ https://github.com/branded-dropshipping/skills
 
 ### [winning-product-research](skills/winning-product-research/SKILL.md)
 
-Hunt through Meta Ad Library, burner feeds, marketplace neighbors and supplier catalogs. Filter for a repeatable demo, an exact supplier match and enough landed margin to test.
+Find product leads and selling angles with Foreplay Discovery. Compare creative families, follow ads to the exact SKU, and check supplier fit, repeatable demos and landed margin. The full discovery workflow uses a Foreplay account.
 
 ```sh
 npx skills add branded-dropshipping/skills --skill winning-product-research -g

@@ -8,6 +8,8 @@ The candidate is attractive but identity, variant, specifications, stock, MOQ or
 
 Search public supplier catalogs with the product's generic function words and a reverse-image search of the main product photo. Supplier listings often show "similar items", which are useful for variants and for a better-priced neighbor. Open matches and classify identity honestly: visual neighbor, seller-claimed equivalent, matching documented model/variant, or physically checked unit. Don't collapse those into "same product." Two listings with identical photos can have different ports, battery sizes, fabrics or dimensions. Record the details that affect the promised use: dimensions, material, connectors, power, components.
 
+Matching dimensions establish dimensional agreement only, not full item identity, material, components or performance. A differing component in a supplier photo makes equivalence unresolved unless the difference is confirmed. Choose the most decision-changing next check without calling it the only missing fact or implying other properties were verified. A candidate can deserve first investigation on partial evidence.
+
 Capture terms in context: supplier and listing, variant, quantity, currency, destination, listing date, stated stock, dispatch estimate and delivery estimate. MOQ is the minimum order quantity for this arrangement, and a custom package or logo can change it. A listing price at a large quantity is not the cost of one fulfilled order. Unknown terms stay unknown.
 
 ## When you can't find a supplier match

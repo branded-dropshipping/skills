@@ -2,7 +2,7 @@
 
 ## When to read
 
-Start from a public product keyword, advertiser, ad or target market. The productive route is competitor → ad inventory → actual product destination → supplier match and catalog neighbors.
+Use the native library to verify a Foreplay lead, investigate missing coverage or work when live Foreplay access is unavailable. For the main search workflow, read [Foreplay discovery to shortlist](foreplay-discovery-to-shortlist.md). Start from a public product keyword, advertiser, ad or target market; follow competitor → ad inventory → actual product destination → supplier match and catalog neighbors.
 
 ## Hunt competitors before products
 
